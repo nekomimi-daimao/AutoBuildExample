@@ -2,7 +2,7 @@
 
 public class ShowState : MonoBehaviour
 {
-    private const PrimitiveType Type = PrimitiveType.Cube;
+    private const PrimitiveType Type = PrimitiveType.Capsule;
 
     private void Start()
     {
